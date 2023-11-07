@@ -3,7 +3,7 @@ name: hello_world
 on:
   push:
     branches:
-      - main
+      - child_branch
 
 jobs:
   hello:
